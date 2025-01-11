@@ -1,7 +1,7 @@
 {
   "name": "taskmanager",
   "private": true,
-  "homepage": "https://dariuszcedro.github.io/task-manager/",
+  "homepage": "https://dariuszcedro.github.io/task-manager",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
